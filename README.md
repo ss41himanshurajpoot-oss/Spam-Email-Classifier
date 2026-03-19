@@ -119,14 +119,4 @@ These metrics are printed after training.
 - Add graphical interface (Streamlit)
 - Use deep learning (LSTM/Transformers)
 - Integrate with email services
-- Improve preprocessing (stopwords removal, stemming)
-
----
-
-## 👨‍💻 Author
-**Himanshu Rajpoot**
-
----
-
-## 📜 License
-This project is for educational purposes only.
+- Improve preprocessing (stopwords removal, stemming).
